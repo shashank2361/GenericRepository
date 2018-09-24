@@ -1,0 +1,75 @@
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\csc.exe
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\vbc.exe
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\VBCSCompiler.exe
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\GenericRepositoryPattern.dll.config
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\GenericRepositoryPattern.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\GenericRepositoryPattern.pdb
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.SqlServer.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Helpers.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Mvc.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Razor.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Razor.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.SqlServer.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Razor.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Razor.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Helpers.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Mvc.xml
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.dll
+C:\Users\yogeshdotnet\Documents\Visual Studio 2015\Projects\GenericRepositoryPattern\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.pdb
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.csproj.CoreCompileInputs.cache
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\csc.exe
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\System.Collections.Immutable.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\vbc.exe
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\VBCSCompiler.exe
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\roslyn\VBCSCompiler.exe.config
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\GenericRepositoryPattern.dll.config
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\GenericRepositoryPattern.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\GenericRepositoryPattern.pdb
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.SqlServer.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\Microsoft.Web.Infrastructure.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Helpers.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Mvc.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Razor.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Deployment.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Razor.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\EntityFramework.SqlServer.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Razor.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Deployment.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Webpages.Razor.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Helpers.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\bin\System.Web.Mvc.xml
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.csproj.CopyComplete
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.dll
+E:\MyProjects\GenericRepositoryPattern\GenericRepositoryPattern\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.pdb

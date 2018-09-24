@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BooksDBModelStoreContainer" CdmEntityContainer="DataContext">
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="BooksDBModel.Book">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="bookname" ColumnName="bookname" />
+          <ScalarProperty Name="author" ColumnName="author" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Logins">
+      <EntityTypeMapping TypeName="BooksDBModel.Login">
+        <MappingFragment StoreEntitySet="Logins">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
